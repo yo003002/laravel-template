@@ -3,7 +3,7 @@
 github よりソースを取得する
 
 ```
-git clone https://github.com/teppei-github/laravel-template.git
+git clone https://github.com/yo003002/laravel-template.git
 ```
 
 階層を変更する
@@ -100,7 +100,7 @@ cp .env .env.testing
 ```
 APP_NAME=Laravel
 - APP_ENV=local
-- APP_KEY=base64:vPtYQu63T1fmcyeBgEPd0fJ+jvmnzjYMaUf7d5iuB+c=
+- APP_KEY=xxxxxxxxx
 + APP_ENV=test
 + APP_KEY=
 APP_DEBUG=true
